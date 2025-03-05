@@ -1,8 +1,8 @@
-## 2025 CapstoneDesign(1)
+# 2025 CapstoneDesign(1)
 information about 2025 capstone
 
-# member
+## member
 202101675 유재휘
 
-# Links
+## Links
 notion : 
